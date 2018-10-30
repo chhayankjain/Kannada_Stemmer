@@ -1,1 +1,1 @@
-# Kannada_Stemmer
+Objective: To find stem words for Kannada words. 
